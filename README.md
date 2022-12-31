@@ -13,4 +13,4 @@ Homeworks and Final Project for Advanced Machine Learning course.
 - TF4AML_practice.ipynb: this notebook follows the paper [Under the Hood of Transformer Networks for Trajectory Forecasting.](https://arxiv.org/abs/2203.11878)
 
 > Final Project:
-- Detection Swimming Pools using Aerial Imagery
+- Detection Swimming Pools using Aerial Imagery (.pdf - Final Paper, .7z Zipped Code)
